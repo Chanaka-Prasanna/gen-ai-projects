@@ -1,0 +1,5 @@
+In agents applications we need mainly three things to identify
+
+1. agents: here the youtube research expert and the content creator/blog writer
+2. tasks: What each agent is doing
+3. tools: What each agent is using to do each tasks

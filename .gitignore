@@ -1,0 +1,17 @@
+/env
+.env
+/venv
+/*/venv
+/*/env
+/2-control-flow
+
+# Compiled Python files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Other common files
+.DS_Store

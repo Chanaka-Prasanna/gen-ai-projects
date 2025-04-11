@@ -1,0 +1,9 @@
+streamlit
+google-generativeai
+python-dotenv
+langchain
+langchain-community
+PyPDF2
+faiss-cpu
+# can use chroma db or faiss-gpu as well for the faiss-cpu
+langchain_google_genai
